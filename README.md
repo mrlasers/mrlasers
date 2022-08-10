@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrlasers
 - 🐕 I’m interested in functional programming and dogs (not in that order)
-- 🌱 I’m currently learning Elm and Clojure
+- 🌱 I’m currently learning Elm, PureScript, and Clojure
 - 💞️ I’m looking to collaborate on "yes"
 - 📫 How to reach me: my DMs are open--or not. I don't know how that works here.
 
